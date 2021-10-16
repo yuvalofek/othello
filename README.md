@@ -5,7 +5,7 @@ I created a C++ Othello game from scratch!
 I haven't used C++ in years so I wanted to review my skills with the language, and doing a toy project seemed like a great choice!
 
 ## What I did:
-I practiced C++ using a toy Othello game. The program allows the user to choose number of players and if to start first, and starts playing. The flips and winner are determined automatically. 
+I practiced C++ using a toy Othello game. The program allows the user to choose number of players and if to start first, and starts playing. The flips and winner are determined automatically. To enter move, type y-position ENTER x-position.
 
 ### Things I did I didn't like:
 * I was a bit lazy and didn't properly do handle the imports (I left them as import \*.cpp instead of the \*.h)
